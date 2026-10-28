@@ -245,4 +245,4 @@ This repository serves as the official landing page for CDBurnerXP. The software
 **Get the most recent version of CDBurnerXP today!**
 
 ---
-**Last updated:** 2026-10-27 22:42:31 UTC
+**Last updated:** 2026-10-28 01:52:23 UTC
